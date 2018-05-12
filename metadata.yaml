@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38972#Eskimom-rchen
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2012-02-24'
 gutenberg_type: Text
